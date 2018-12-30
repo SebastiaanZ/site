@@ -62,6 +62,7 @@ else:
 # Application definition
 
 INSTALLED_APPS = [
+    'announcement',
     'api',
     'home',
 
